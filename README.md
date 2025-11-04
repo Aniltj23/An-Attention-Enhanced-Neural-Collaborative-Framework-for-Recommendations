@@ -4,6 +4,11 @@
 - Enhanced Diversity, Novelty, and Serendipity using embedding-based metrics
 - Interactive Streamlit Deployment Ready for real-time inference
 
+# Tech Stack
+- Framework          PyTorch
+- Dashboard          Streamlit
+- Dataset            Movielens 1M
+
 # How Diversity, Novelty and Serendipity works
 - Diversity — penalizes similarity among recommended items using cosine distance in embedding space
 - Diversity — penalizes similarity among recommended items using cosine distance in embedding space
